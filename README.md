@@ -1,5 +1,4 @@
-# This is pretty broken and I do not intend to fix it's issues!
-This is some of the worst code I have written to generate a poem with Markov chains and use turn the poem into an image for use on Instagram.
+This uses a python scrpit to write a short poem using a [Markov Chain](https://en.wikipedia.org/wiki/Markov_chain) and then creates an image out of it using ASCII values from characters in the string.
 
 Since the Instagram API does not support posting images I am unable to really automate this as much as I would like. I may look into this more at a later date.
 
@@ -11,4 +10,4 @@ This was not intended to have other users besides myself, so I'm aware of most o
 # Installation
 This program depends on Markovify which you can download with.
 ```pip install markovify```
-To use simply run insta.sh
+To use simply run ```insta.sh```
