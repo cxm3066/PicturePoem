@@ -8,6 +8,6 @@ I should have written it all in a single language but I just recycled some of my
 This was not intended to have other users besides myself, so I'm aware of most of the errors and will not be fixing them.
 
 # Installation
-This program depends on Markovify which you can download with.
+This program depends on imagemagick and Markovify which you can download with.
 ```pip install markovify```
 To use simply run ```insta.sh```
